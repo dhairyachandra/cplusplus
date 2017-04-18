@@ -1,4 +1,4 @@
-/* Q.   	Imagine a tollbooth with a class called toll Booth.
+/* Q.       Imagine a tollbooth with a class called toll Booth.
             The two data items are a type unsigned int to hold the total number of cars,
             and a type double to hold the total amount of money collected. A constructor initializes both these to 0.
             A member function called payingCar(), increments the car total and adds 050 to the cash total.
